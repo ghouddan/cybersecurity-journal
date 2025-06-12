@@ -10,7 +10,7 @@ The core function of a **Security Operations Center** is to monitor, investigate
 
 # Room 2
 ## The Pyramid of Pain 
-![Pyramid of Pain Diagram](./../images/Pasted_image_20250504162722.png)
+![Pyramid of Pain Diagram](./../images/Pasted image 20250504162722.png)
 ![Additional Pyramid Diagram](./../images/Pasted_image_20250504170939.png)
 
 #### The MITRE ATT&CK
