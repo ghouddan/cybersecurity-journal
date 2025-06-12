@@ -10,8 +10,8 @@ The core function of a **Security Operations Center** is to monitor, investigate
 
 # Room 2
 ## The Pyramid of Pain 
-![Pyramid of Pain Diagram](./images/Pasted_image_20250504162722.png)
-![Additional Pyramid Diagram](./images/Pasted_image_20250504170939.png)
+![Pyramid of Pain Diagram](./../images/Pasted_image_20250504162722.png)
+![Additional Pyramid Diagram](./../images/Pasted_image_20250504170939.png)
 
 #### The MITRE ATT&CK
 
@@ -43,7 +43,7 @@ In an HTTP header, a User-Agent is a string that identifies the client applicati
 # Room 3
 ## The Cyber Kill Chain 
 
-![Cyber Kill Chain Diagram](./images/Pasted_image_20250505082914.png)
+![Cyber Kill Chain Diagram](./../images/Pasted_image_20250505082914.png)
 
 This term is derived from the military and means the structure of an attack. It was developed by Lockheed Martin. Completing the kill chain means that the attack was successful.
 
@@ -94,12 +94,12 @@ This is a series of steps that allow us to improve the security of a system by i
 #### The Unified Kill Chain
 This is a new model that complements the older kill chain model.
 
-![Unified Kill Chain Diagram](./images/Pasted_image_20250506170345.png)
+![Unified Kill Chain Diagram](./../images/Pasted_image_20250506170345.png)
 
 ##### Phase In
 Setting the foothold in the system.
 
-![Phase In Diagram](./images/Pasted_image_20250506171634.png)
+![Phase In Diagram](./../images/Pasted_image_20250506171634.png)
 
 **Reconnaissance ([MITRE Tactic TA0043](https://attack.mitre.org/tactics/TA0043/))**
 
@@ -164,7 +164,7 @@ For example, an adversary can gain access to a web server that is publicly acces
 ##### Phase Through
 After having the foothold, the adversary will try to access higher levels and expand to other systems.
 
-![Phase Through Diagram](./images/Pasted_image_20250506171755.png)
+![Phase Through Diagram](./../images/Pasted_image_20250506171755.png)
 
 **Pivoting** ([MITRE Tactic TA0008](https://attack.mitre.org/tactics/TA0008/))
 Once the attacker has access to the system, they would use it as their staging site and a tunnel between their command operations and the victim's network. The system would also be used as the distribution point for all malware and backdoors at later stages.
@@ -270,7 +270,7 @@ Per the website, "MITRE Engage is a framework for planning and discussing advers
 This describes who to engage with the adversary. With **Cyber Denial** we prevent the adversary's ability to conduct their operations, and with **Cyber Deception** we intentionally plant artifacts to mislead the adversary.
 
 ##### The MITRE Engagement Matrix 
-![MITRE Engagement Matrix](./images/Pasted_image_20250507183739.png)
+![MITRE Engagement Matrix](./../images/Pasted_image_20250507183739.png)
 
 - **Prepare**: the set of operational actions that will lead to your desired outcome (input)
 - **Expose**: adversaries when they trigger your deployed deception activities 
@@ -324,7 +324,7 @@ Cyber Threat Intelligence (CTI) can be defined as evidence-based knowledge about
 #### Data Churning 
 This is the process of transforming raw data to contextualized and action-oriented insights geared towards triaging security incidents. The transformation process follows 6 phases:
 
-![Data Churning Process](./images/Pasted_image_20250508172732.png)
+![Data Churning Process](./../images/Pasted_image_20250508172732.png)
 
 - **Direction**: the objective and goals, identifying the following parameters:
   - Information assets and business processes that require defending
@@ -357,7 +357,7 @@ YARA is a pattern matching tool primarily developed for malware identification a
 - **Reverse engineering** - Researchers use YARA to find similar code patterns across different malware samples
 - **Intelligence sharing** - Organizations share YARA rules to help others detect the same threats
 
-![YARA Diagram](./images/Pasted_image_20250509185850.png)
+![YARA Diagram](./../images/Pasted_image_20250509185850.png)
 
 YARA can be integrated with other libraries like:
 
