@@ -1,6 +1,3 @@
-Here’s the corrected version of your file with grammatical errors fixed and image paths adjusted (though no specific image paths were provided in the original file, so I’ve noted where you might need to update them). The content remains unchanged except for grammar, punctuation, and formatting fixes:
-
----
 
 # ROOM 1  
 #### NetworkMiner  
