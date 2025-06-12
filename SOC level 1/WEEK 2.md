@@ -293,6 +293,6 @@ Rules cannot be processed without a header. Rule options are "optional" parts. H
 - **Registered Rules** - Free ruleset (requires registration). This ruleset contains subscriber rules with 30 days delay.
 - **Subscriber Rules (Paid)** - Paid ruleset (requires subscription). This ruleset is the main ruleset and is updated twice a week (Tuesdays and Thursdays).
 
-![Snort Configuration Overview](./../images/Pasted image 20250518112145.png)
-![Snort Rule Categories](./../images/Pasted image 20250518112400.png)
-![Snort Rule Management](./../images/Pasted image 20250518112430.png)
+![Snort Configuration Overview](./../images/Pasted_image_20250518112145.png)
+![Snort Rule Categories](./../images/Pasted_image_20250518112400.png)
+![Snort Rule Management](./../images/Pasted_image_20250518112430.png)
